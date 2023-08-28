@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix Clone](link-to-your-project-screenshot.jpg)
+
 
 ## Description
 
